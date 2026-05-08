@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola, soy William Eduardo!
 
-<!--
-**willy131T/willy131T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ingeniería en Sistemas Computacionales** y Técnico en Programación. Me apasiona crear soluciones integrales (Software + Hardware), la arquitectura de datos y el aseguramiento de calidad (QA). Busco siempre escribir código limpio y validar el correcto funcionamiento de los sistemas.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Lenguajes:** Java, Python, JavaScript, C#
+* **Bases de Datos:** PostgreSQL, SQL
+* **Desarrollo Web & Entornos:** Node.js, HTML, CSS
+* **IoT & Hardware:** Arduino, NFC
+* **Visión Artificial:** OpenCV, MediaPipe
+* **Herramientas:** Git/GitHub
+
+## 🔭 ¿En qué estoy trabajando actualmente?
+
+* **Traductor de Lengua de Señas:** Desarrollando un software en Python con visión artificial para la traducción en tiempo real, con diccionarios y modelos de reconocimiento para ambas manos.
+* **Portafolio Web:** Desarrollo de una plataforma web profesional usando HTML, CSS y JavaScript.
+
+## 📫 Cómo contactarme
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-marcelo-william-eduardo-666033234)
+* **Email:** willyeduardoantonio28@gmail.com
