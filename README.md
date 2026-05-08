@@ -18,5 +18,5 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** y Técnico en Prog
 
 ## 📫 Cómo contactarme
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/antonio-marcelo-william-eduardo-66b033234)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-marcelo-william-eduardo-66b033234/?skipRedirect=true)
 * **Email:** willyeduardoantonio28@gmail.com
