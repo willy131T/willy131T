@@ -14,7 +14,7 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** y Técnico en Prog
 ## 🔭 ¿En qué estoy trabajando actualmente?
 
 * **Traductor de Lengua de Señas:** Desarrollando un software en Python con visión artificial para la traducción en tiempo real, con diccionarios y modelos de reconocimiento para ambas manos.
-* **Portafolio Web:** Desarrollo de una plataforma web profesional usando HTML, CSS y JavaScript.
+* **Portafolio Web:** Desarrollo de plataformas web profesional usando HTML, CSS, JavaScript y Base de Datos.
 
 ## 📫 Cómo contactarme
 
